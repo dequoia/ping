@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>https://dequoia.github.io/ping/about/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://dequoia.github.io/ping/</loc>
   </url><url>
-    <loc>/bk_index/</loc>
+    <loc>https://dequoia.github.io/ping/bk_index/</loc>
   </url><url>
-    <loc>/signup/</loc>
+    <loc>https://dequoia.github.io/ping/signup/</loc>
   </url>
 </urlset>
